@@ -1,0 +1,43 @@
+﻿  Application.cpp
+  BitProcess.cpp
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\bitprocess.cpp(23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\bitprocess.cpp(134): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\bitprocess.cpp(143): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Convert.cpp
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(85): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(121): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(156): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(181): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(209): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(214): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(219): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(243): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(246): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\convert.cpp(368): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Qfloat.cpp
+  Qint.cpp
+  Utils.cpp
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(158): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(205): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(206): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(210): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(215): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(218): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(219): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(229): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(230): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(295): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(296): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(336): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(351): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(360): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(371): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(446): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pc\repo\bignumber\bignumber\bignumber\src\utils.cpp(447): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Debug\Application.obj : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
